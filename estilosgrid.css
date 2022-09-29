@@ -1,0 +1,15 @@
+.contenedorGrid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    background-color: rgb(149, 186, 186);
+}
+.cajagrid{
+    background-color: blueviolet;
+
+}
+
+img{ 
+    width: 100%;
+    height: fit-content;
+}
